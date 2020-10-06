@@ -17,3 +17,4 @@ service-account.json
 !index.js
 yarn.lock
 scripts
+yarn-error.log
